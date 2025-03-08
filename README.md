@@ -5,7 +5,7 @@ University of Mannheim - Data Mining Course (M.Sc. Data Science)
 
 ### Project Overview
 
-This project was conducted as part of the Data Mining course during the Master's program in Data Science at the University of Mannheim. The goal was to analyze the Telco Customer Churn Dataset from Kaggle (dataset link) and evaluate various machine learning classifiers to predict customer churn.
+This project was conducted as part of the Data Mining course during the Master's program in Data Science at the University of Mannheim. The goal was to analyze the Telco Customer Churn Dataset from Kaggle (https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3) and evaluate various machine learning classifiers to predict customer churn.
 
 ### Dataset Description
 
