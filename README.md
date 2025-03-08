@@ -10,3 +10,7 @@ This project was conducted as part of the Data Mining course during the Master's
 ### Dataset Description
 
 The dataset contains information about customers of a telecommunications company, including demographic details, service subscriptions, contract types, and payment methods. The target variable is Churn, indicating whether a customer left the service provider.
+
+### Team Members
+
+Dexiang Cao, Melvin Cubrovic, Anna Sergeeva, Nik Yakovlev, Jianguo Zhang
